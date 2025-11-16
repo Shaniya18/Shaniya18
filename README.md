@@ -1,72 +1,171 @@
-🌸 Hi, I'm Shaniya!
-Aspiring Software Engineer • Web Developer • Cybersecurity Learner • AI Enthusiast
+🌟 Hi, I'm Shaniya Saloni Sen
+Final-Year IT Student | Future Software Engineer | Cybersecurity Enthusiast | AI Learner
 
-I'm a passionate final-year IT student who loves building real projects — from Android apps to PHP/Laravel systems, VB.NET desktop apps, and secure web platforms.
-I enjoy learning new technologies, exploring cybersecurity, and improving systems with clean, scalable code.
+Welcome to my GitHub profile!
+I am a passionate and hardworking technology student currently completing my Bachelor of Information Technology (Software Engineering). I enjoy building software, securing systems, learning Artificial Intelligence, and creating real-world projects that solve problems.
+
+I always aim to write clean code, follow best practices, and continuously improve my skills through real projects, labs, and hands-on experiments.
 
 🚀 About Me
 
-🎓 Final-year Bachelor of IT (Software Engineering)
+🎓 Final-year IT student (Software Engineering major)
 
-💻 Web, Mobile, and Desktop Developer
+🌱 Currently learning: AI, Machine Learning, and Deep Learning basics
 
-🔐 Cybersecurity & Linux enthusiast
+💼 Exploring: Cybersecurity, Penetration Testing, Web Development, APIs, and Automation
 
-🤖 Currently learning AI & Machine Learning
+💻 Comfortable with: Python, Java, PHP, SQL, JavaScript, HTML/CSS, VB.NET
 
-☁️ Exploring Cloud (AWS, Firebase)
+🔐 Interest in cybersecurity tools like Kali Linux, Metasploitable2, VirtualBox, Wireshark & Burp Suite
 
-🔧 Love fixing, improving, and optimizing systems
+🧠 Passionate about:
 
-📚 Always learning and building something new
+Software Development
 
-🛠️ Tech Stack
-Languages
+Web Applications
 
-Java · PHP · JavaScript · Python · SQL · VB.NET · HTML · CSS
+IT Support & Networking
 
-Frameworks / Tools
+Ethical Hacking
 
-Laravel · Android Studio · .NET · Firebase · Bootstrap · MySQL · SQL Server
+Machine Learning
 
-Other Skills
+🛠️ Building projects to strengthen real-world skills
 
-Cybersecurity · Networking · Pentesting Tools (Kali Linux)
-Git & GitHub · UI/UX Basics · Project Documentation
+🌍 Based in: Fiji
 
-📂 Featured Projects
-💸 Budget Bliss – Personal Finance App (Android + Firebase)
+✨ Goal: Become a skilled software engineer + AI practitioner
 
-A clean finance management app with login, transactions, splash screen & real-time balance tracking.
+🔧 Tech Stack & Tools
+Programming Languages
 
-🌐 Fiji Web Directory – Business Listing Platform (PHP/Laravel)
+Python
 
-Secure directory with admin panel, reviews, listings, categories & user management.
+Java
 
-🏥 Pharmacy Management System (VB.NET + SQL Server)
+PHP
 
-Complete desktop application with billing, authentication, inventory & reporting.
+JavaScript
+
+C / C#
+
+VB.NET
+
+SQL
+
+Web Development
+
+HTML / CSS
+
+PHP
+
+Django (beginner)
+
+REST APIs
+
+Bootstrap / Tailwind
+
+Cybersecurity & Networking
+
+Kali Linux
+
+VirtualBox
+
+Metasploitable2
+
+Wireshark
+
+Nmap
+
+Burp Suite
+
+Linux Commands
+
+Databases
+
+MySQL
+
+SQLite
+
+SQL Server
+
+Tools
+
+VS Code
+
+Git & GitHub
+
+Postman
+
+XAMPP
+
+Figma
+
+Trello
+
+🧪 Projects I Worked On
+🌐 Fiji Web Directory (PHP + MySQL)
+
+A secure business listing platform
+
+User login, admin panel, SMTP email
+
+Listings, reviews, search, CRUD operations
+
+🏥 Hospital Management System (VB.NET + SQL)
+
+Desktop app for outpatient, inpatient, billing
+
+Role-based access
+
+Telemedicine module
+
+🐍 Python Projects
+
+AI learning mini-projects
+
+Data manipulation scripts
+
+Simple ML practice models
+
+🔐 Cybersecurity Labs
+
+Attack simulations using Kali Linux
+
+Penetration testing reports
+
+Social engineering write-ups
+
+Vulnerability analysis (Metasploitable2)
+
+🎯 What I’m Currently Learning
+
+🤖 Machine Learning Fundamentals
+
+🔥 Neural networks (beginner)
+
+🚀 Django full-stack development
+
+🔍 Penetration testing methodology
+
+📡 TCP/IP Networking
+
+📚 Certifications I Am Working On
+
+Google Cybersecurity Certificate
+
+Python for Everybody
+
+CompTIA Security+ (future goal)
+
+Machine Learning (Andrew Ng)
 
 📈 GitHub Stats
 
-Your GitHub stats will automatically update.
+I will generate these for you — just paste this code INTO your README and GitHub will automatically display your stats.
 
-🌟 What I'm Learning Now
+![Shaniya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shaniya18&show_icons=true&theme=tokyonight)
 
-🤖 AI fundamentals
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaniya18&layout=compact&theme=tokyonight)
 
-🧠 Machine Learning with Python
-
-🔐 Ethical Hacking & Kali Linux
-
-🌍 Full-stack web development best practices
-
-✨ My Goals
-
-Become a full-stack developer
-
-Build more AI-enabled applications
-
-Improve cybersecurity skills
-
-Contribute to open-source projects
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shaniya18&theme=tokyonight)
