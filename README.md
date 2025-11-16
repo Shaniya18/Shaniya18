@@ -1,9 +1,3 @@
-Absolutely — here is a **fully aesthetic, modern, clean, professional, and intelligent-looking GitHub Profile README**.
-It is designed to look **elite**, **smart**, and **high-tech**, with soft gradients, centered layout, badges, icons, and a beautiful aesthetic flow.
-
-Just **copy + paste** into your `README.md`.
-
----
 
 # ✨ **Shaniya Saloni Sen**
 
