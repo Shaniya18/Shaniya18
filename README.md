@@ -1,171 +1,86 @@
-🌟 Hi, I'm Shaniya Saloni Sen
-Final-Year IT Student | Future Software Engineer | Cybersecurity Enthusiast | AI Learner
+👋 Hi, I'm Shaniya Saloni Sen
 
-Welcome to my GitHub profile!
-I am a passionate and hardworking technology student currently completing my Bachelor of Information Technology (Software Engineering). I enjoy building software, securing systems, learning Artificial Intelligence, and creating real-world projects that solve problems.
+A Final-Year Bachelor of Information Technology (Software Engineering) student with strong skills in software development, web security, mobile app development, databases, and cybersecurity.
 
-I always aim to write clean code, follow best practices, and continuously improve my skills through real projects, labs, and hands-on experiments.
+I build real-world applications that are secure, efficient, and user-friendly — from Android apps to PHP web systems, Laravel platforms, and Django REST APIs. I am also actively learning Artificial Intelligence (AI) to expand my capabilities in modern, intelligent software.
 
 🚀 About Me
 
-🎓 Final-year IT student (Software Engineering major)
+🎓 Final-year Software Engineering student
 
-🌱 Currently learning: AI, Machine Learning, and Deep Learning basics
+💻 Passion for web, mobile, and secure system development
 
-💼 Exploring: Cybersecurity, Penetration Testing, Web Development, APIs, and Automation
+🤖 Learning AI, machine learning, and automation
 
-💻 Comfortable with: Python, Java, PHP, SQL, JavaScript, HTML/CSS, VB.NET
+🔐 Strong interest in cybersecurity and secure coding practices
 
-🔐 Interest in cybersecurity tools like Kali Linux, Metasploitable2, VirtualBox, Wireshark & Burp Suite
+🧪 Love building full systems: UI → Backend → Database → Security → Deployment
 
-🧠 Passionate about:
+🎯 Goal: Become a Software Engineer / Cybersecurity Analyst / AI Developer
 
-Software Development
+🛠️ Tech Stack
+Languages
 
-Web Applications
+Java • Python • PHP • JavaScript • SQL • VB.NET
 
-IT Support & Networking
+Frameworks & Tools
 
-Ethical Hacking
+Android Studio • Firebase • Laravel • Django REST Framework • MySQL
+Git & GitHub • Composer • Postman • REST APIs • .NET Framework
 
-Machine Learning
+Areas I Work In
 
-🛠️ Building projects to strengthen real-world skills
+Full-Stack Web Development
 
-🌍 Based in: Fiji
+Mobile Development (Android)
 
-✨ Goal: Become a skilled software engineer + AI practitioner
+Database Design & Optimization
 
-🔧 Tech Stack & Tools
-Programming Languages
+Secure Application Development (OWASP-focused)
 
-Python
+REST API Development
 
-Java
+AI & Machine Learning (Beginner Level)
 
-PHP
+📌 Featured Projects
+📱 Budget Bliss – Personal Finance App (Android + Firebase)
 
-JavaScript
+A simple, professional finance-tracking app with secure login, real-time data sync, and transaction history.
+Tech: Java, Firebase Auth, Firestore, XML UI
+Features: Income/expense tracking, balance calculation, splash screen, logout.
 
-C / C#
+🏥 Pharmacy Management System (VB.NET + SQL Server)
 
-VB.NET
+A complete pharmacy system for billing, stock control, prescriptions, and reporting.
+Tech: VB.NET, SQL Server, ADO.NET
+Features: Role-based login, inventory management, reports, billing module, admin dashboard.
 
-SQL
-
-Web Development
-
-HTML / CSS
-
-PHP
-
-Django (beginner)
-
-REST APIs
-
-Bootstrap / Tailwind
-
-Cybersecurity & Networking
-
-Kali Linux
-
-VirtualBox
-
-Metasploitable2
-
-Wireshark
-
-Nmap
-
-Burp Suite
-
-Linux Commands
-
-Databases
-
-MySQL
-
-SQLite
-
-SQL Server
-
-Tools
-
-VS Code
-
-Git & GitHub
-
-Postman
-
-XAMPP
-
-Figma
-
-Trello
-
-🧪 Projects I Worked On
 🌐 Fiji Web Directory (PHP + MySQL)
 
-A secure business listing platform
+A secure business directory with user accounts, staff/admin panel, reviews, category management, and strong security features.
+Security: SQL injection protection, XSS prevention, CSRF tokens, secure sessions.
+Tools: PHP, MySQL, PHPMailer, XAMPP.
 
-User login, admin panel, SMTP email
+🚀 Fiji Directory (Laravel Web Platform)
 
-Listings, reviews, search, CRUD operations
+A modern Fiji business directory built with Laravel + Blade.
+Features: Categories, listing management, user login, reviews, admin dashboard.
+Tech: Laravel, Blade, MySQL, Vite.
 
-🏥 Hospital Management System (VB.NET + SQL)
+🔌 Business Directory API (Django REST Framework)
 
-Desktop app for outpatient, inpatient, billing
+A complete API for business listings, submissions, reviews, comments, and categories.
+Tech: Python, Django REST Framework
+Features: Token authentication, nested endpoints, geolocation, admin tools.
 
-Role-based access
+📚 What I’m Learning Now
 
-Telemedicine module
+Artificial Intelligence (AI) & ML (Python)
 
-🐍 Python Projects
+Penetration Testing Basics
 
-AI learning mini-projects
+Advanced Laravel
 
-Data manipulation scripts
+REST API Security
 
-Simple ML practice models
-
-🔐 Cybersecurity Labs
-
-Attack simulations using Kali Linux
-
-Penetration testing reports
-
-Social engineering write-ups
-
-Vulnerability analysis (Metasploitable2)
-
-🎯 What I’m Currently Learning
-
-🤖 Machine Learning Fundamentals
-
-🔥 Neural networks (beginner)
-
-🚀 Django full-stack development
-
-🔍 Penetration testing methodology
-
-📡 TCP/IP Networking
-
-📚 Certifications I Am Working On
-
-Google Cybersecurity Certificate
-
-Python for Everybody
-
-CompTIA Security+ (future goal)
-
-Machine Learning (Andrew Ng)
-
-📈 GitHub Stats
-
-I will generate these for you — just paste this code INTO your README and GitHub will automatically display your stats.
-
-![Shaniya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shaniya18&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaniya18&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shaniya18&theme=tokyonight)
+Data Structures & Algorithms
