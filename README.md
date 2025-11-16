@@ -1,98 +1,72 @@
+🌸 Hi, I'm Shaniya!
+Aspiring Software Engineer • Web Developer • Cybersecurity Learner • AI Enthusiast
 
-# ✨ **Shaniya Saloni Sen**
+I'm a passionate final-year IT student who loves building real projects — from Android apps to PHP/Laravel systems, VB.NET desktop apps, and secure web platforms.
+I enjoy learning new technologies, exploring cybersecurity, and improving systems with clean, scalable code.
 
-### *IT Student | Software Engineer in Training | Cybersecurity & AI Learner*
+🚀 About Me
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shaniya18&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
+🎓 Final-year Bachelor of IT (Software Engineering)
 
----
+💻 Web, Mobile, and Desktop Developer
 
-## 🌌 **About Me**
+🔐 Cybersecurity & Linux enthusiast
 
-I am a passionate final-year Information Technology student specializing in **Software Engineering**, with growing interest in **Cybersecurity, Artificial Intelligence, and Web Development**.
-My goal is to become a versatile engineer who can build secure, smart, and scalable applications.
+🤖 Currently learning AI & Machine Learning
 
-💡 *I learn by building.*
-🌱 *I grow by experimenting.*
-🔥 *I improve by challenging myself.*
+☁️ Exploring Cloud (AWS, Firebase)
 
----
+🔧 Love fixing, improving, and optimizing systems
 
-## 🎨 **Tech Stack**
+📚 Always learning and building something new
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,php,javascript,html,css,c,git,github,mysql,vscode,linux,bootstrap,figma&theme=dark" />
-</p>
+🛠️ Tech Stack
+Languages
 
----
+Java · PHP · JavaScript · Python · SQL · VB.NET · HTML · CSS
 
-## 🧠 **Current Focus**
+Frameworks / Tools
 
-* 🤖 Learning **AI + Machine Learning**
-* 🕵️‍♀️ Practicing **Cybersecurity labs (Kali, Nmap, Burp, Wireshark)**
-* 🌐 Building **full-stack web projects**
-* 🔧 Strengthening **data structures & algorithms**
+Laravel · Android Studio · .NET · Firebase · Bootstrap · MySQL · SQL Server
 
----
+Other Skills
 
-## 🚀 **Featured Projects**
+Cybersecurity · Networking · Pentesting Tools (Kali Linux)
+Git & GitHub · UI/UX Basics · Project Documentation
 
-### 🌐 **Fiji Web Directory**
+📂 Featured Projects
+💸 Budget Bliss – Personal Finance App (Android + Firebase)
 
-A complete PHP + MySQL web directory with admin login, user authentication, SMTP emails, and business listing features.
+A clean finance management app with login, transactions, splash screen & real-time balance tracking.
 
-### 🏥 **Hospital Management System**
+🌐 Fiji Web Directory – Business Listing Platform (PHP/Laravel)
 
-A VB.NET + SQL desktop solution for hospital operations including role-based access and telemedicine integration.
+Secure directory with admin panel, reviews, listings, categories & user management.
 
-### 🐍 **AI & Python Mini Projects**
+🏥 Pharmacy Management System (VB.NET + SQL Server)
 
-Machine learning practice scripts, data processing tools, and automation experiments.
+Complete desktop application with billing, authentication, inventory & reporting.
 
-### 🔐 **Cybersecurity Exercises**
+📈 GitHub Stats
 
-Hands-on lab work using VirtualBox, Kali Linux, and Metasploitable2 for penetration testing fundamentals.
+Your GitHub stats will automatically update.
 
----
+🌟 What I'm Learning Now
 
-## 🏅 **GitHub Stats & Analytics**
+🤖 AI fundamentals
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shaniya18&show_icons=true&theme=tokyonight&hide_border=true" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shaniya18&layout=compact&theme=tokyonight&hide_border=true" height="170px"/>
-</p>
+🧠 Machine Learning with Python
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shaniya18&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
-</p>
+🔐 Ethical Hacking & Kali Linux
 
----
+🌍 Full-stack web development best practices
 
-## 🎯 **What I'm Learning Next**
+✨ My Goals
 
-* 📘 Deep Learning basics (Neural Networks)
-* 🔐 CompTIA Security+ fundamentals
-* 🧩 Advanced Python
-* ⚡ Django for full-stack development
+Become a full-stack developer
 
----
+Build more AI-enabled applications
 
-## 🌐 **Connect With Me**
+Improve cybersecurity skills
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Email-contact%20me-blue?style=for-the-badge" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-coming%20soon-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-</p>
-
----
-
-## ✨ **Personal Motto**
-
-> **“Small progress every day becomes big success.”**
-
----
-
-## ⭐ **If you like my work, consider giving my repositories a star!**
-
+Contribute to open-source projects
