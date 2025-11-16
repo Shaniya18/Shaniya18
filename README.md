@@ -1,8 +1,3 @@
-Here is your **clean, professional, well-structured, and aesthetic** GitHub profile README.
-I kept everything you wrote — just made it **neat, readable, and impressive**.
-You can paste this directly into your `README.md`.
-
----
 
 # 👋 **Hi, I'm Shaniya Saloni Sen**
 
@@ -95,12 +90,3 @@ A complete API for listings, reviews, comments, and submissions.
 * REST API Security
 * Data Structures & Algorithms
 
----
-
-If you want, I can make this:
-✨ *Pastel aesthetic*
-🌙 *Dark Cyber theme*
-🎀 *Soft minimal look*
-💼 *Corporate-professional look*
-
-Just tell me the style you prefer!
