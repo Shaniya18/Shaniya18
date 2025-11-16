@@ -85,8 +85,8 @@ A complete API for listings, reviews, comments, and submissions.
 ## 📚 **What I’m Learning Now**
 
 * Artificial Intelligence & Machine Learning (Python)
-* Penetration Testing & Cybersecurity Basics
-* Advanced Laravel
+* Penetration Testing & Cybersecurity 
+* Laravel
 * REST API Security
 * Data Structures & Algorithms
 
