@@ -23,7 +23,7 @@ I am also actively learning **Artificial Intelligence (AI)** to expand my capabi
 
 ### 💻 **Languages**
 
-`Java` • `Python` • `PHP` • `JavaScript` • `SQL` • `VB.NET`
+`Java` • `Python` • `PHP` • `JavaScript` • `SQL` • `VB.NET` 
 
 ### 🔧 **Frameworks & Tools**
 
