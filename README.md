@@ -15,7 +15,7 @@ I am also actively learning **Artificial Intelligence (AI)** to expand my capabi
 * 🤖 Learning AI, machine learning & automation
 * 🔐 Strong interest in cybersecurity and secure coding (OWASP practices)
 * 🧪 Enjoy building full systems: **UI → Backend → Database → Security → Deployment**
-* 🎯 Career Goals: **Software Engineer • Cybersecurity Analyst •**
+* 🎯 Career Goals: **Software Engineer • Cybersecurity Analyst**
 
 ---
 
