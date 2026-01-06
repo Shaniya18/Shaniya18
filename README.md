@@ -1,7 +1,7 @@
 
 # 👋 **Hi, I'm Shaniya Saloni Sen**
 
-A Final-Year **Bachelor of Information Technology (Software Engineering)** student with strong skills in **software development, secure web systems, mobile apps, databases, and cybersecurity**.
+A **Bachelor of Information Technology (Software Engineering)** graduate with strong skills in **software development, secure web systems, mobile apps, databases, and cybersecurity**.
 
 I build **real-world applications** that are secure, efficient, and user-friendly — from Android apps to PHP/Laravel systems and Django REST APIs.
 I am also actively learning **Artificial Intelligence (AI)** to expand my capabilities in intelligent, modern software.
@@ -15,7 +15,7 @@ I am also actively learning **Artificial Intelligence (AI)** to expand my capabi
 * 🤖 Learning AI, machine learning & automation
 * 🔐 Strong interest in cybersecurity and secure coding (OWASP practices)
 * 🧪 Enjoy building full systems: **UI → Backend → Database → Security → Deployment**
-* 🎯 Career Goals: **Software Engineer • Cybersecurity Analyst • AI Developer**
+* 🎯 Career Goals: **Software Engineer • Cybersecurity Analyst •**
 
 ---
 
