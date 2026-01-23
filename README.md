@@ -4,7 +4,7 @@
 A **Bachelor of Information Technology (Software Engineering)** graduate with skills in **software development, secure web systems, mobile apps, databases,data analysis and cybersecurity**.
 
 I build **real-world applications** that are secure, efficient, and user-friendly — from Android apps to PHP/Laravel systems and Django REST APIs.
-I am also actively learning **Artificial Intelligence (AI)** to expand my capabilities in intelligent, modern software.
+
 
 ---
 
