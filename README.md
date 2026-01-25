@@ -1,1 +1,92 @@
-<p align="left"><img src="https://img.shields.io/badge/Status-Actively%20Building-green?style=for-the-badge" /><img src="https://img.shields.io/badge/Focus-Secure%20Systems-red?style=for-the-badge" /><img src="https://img.shields.io/badge/Location-Fiji-blue?style=for-the-badge" /></p>🛠 Tech Stack & ArsenalCategoryTools & LanguagesLanguagesJava Python PHP JavaScript SQL VB.NETFrameworksLaravel Django REST Android Studio .NETSecurityOWASP Top 10 Penetration Testing CSRF/XSS DefenseDatabasesMySQL SQL Server Firebase Firestore📂 Featured Repositories<table border="0"><tr><td width="50%"><a href="https://github.com/YOUR_USERNAME/Budget-Bliss"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Budget-Bliss&theme=tokyonight&show_owner=true" /></a></td><td width="50%"><a href="https://github.com/YOUR_USERNAME/Pharmacy-Management-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Pharmacy-Management-System&theme=tokyonight&show_owner=true" /></a></td></tr><tr><td width="50%"><a href="https://github.com/YOUR_USERNAME/Fiji-Web-Directory"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Fiji-Web-Directory&theme=tokyonight&show_owner=true" /></a></td><td width="50%"><a href="https://github.com/YOUR_USERNAME/Business-Directory-API"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Business-Directory-API&theme=tokyonight&show_owner=true" /></a></td></tr></table>📈 GitHub Stats<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" /></p>
+
+# 👋 **Hi, I'm Shaniya Saloni Sen**
+
+A **Bachelor of Information Technology (Software Engineering)** graduate with skills in **software development, secure web systems, mobile apps, databases,data analysis and cybersecurity**.
+
+I build **real-world applications** that are secure, efficient, and user-friendly — from Android apps to PHP/Laravel systems and Django REST APIs.
+
+
+---
+
+## 🚀 **About Me**
+
+* 🎓 Final-year Software Engineering student
+* 💻 Passionate about web, mobile, and secure system development
+* 🤖 Learning AI, machine learning & automation
+* 🔐 Strong interest in cybersecurity and secure coding (OWASP practices)
+* 🧪 Enjoy building full systems: **UI → Backend → Database → Security → Deployment**
+* 🎯 Career Goals: **Software Engineer • Cybersecurity Analyst**
+
+---
+
+## 🛠️ **Tech Stack**
+
+### 💻 **Languages**
+
+`Java` • `Python` • `PHP` • `JavaScript` • `SQL` • `VB.NET` 
+
+### 🔧 **Frameworks & Tools**
+
+`Android Studio` • `Firebase` • `Laravel` • `Django REST Framework`
+`MySQL` • `Git & GitHub` • `Postman` • `REST APIs` • `.NET Framework`
+
+### 🔍 **Areas I Work In**
+
+* Full-Stack Web Development
+* Android Mobile Development
+* Database Design & Optimization
+* Secure Application Development (**OWASP-focused**)
+* REST API Design & Testing
+* AI & Machine Learning (Beginner Level)
+
+---
+
+## 📌 **Featured Projects**
+
+### 📱 **Budget Bliss – Personal Finance App (Android + Firebase)**
+
+A clean finance-tracking app with login, real-time sync, and transaction history.
+**Tech:** Java, Firebase Auth, Firestore, XML
+**Features:** Income/expense tracking, balance display, splash screen, secure logout.
+
+---
+
+### 🏥 **Pharmacy Management System (VB.NET + SQL Server)**
+
+A full pharmacy system for billing, stock management, prescriptions, and reporting.
+**Tech:** VB.NET, SQL Server, ADO.NET
+**Features:** Role-based login, inventory control, reports, admin dashboard.
+
+---
+
+### 🌐 **Fiji Web Directory (PHP + MySQL)**
+
+A secure business directory with users, admin panel, reviews, and categories.
+**Security:** SQL injection protection, XSS prevention, CSRF tokens, secure sessions
+**Tools:** PHP, MySQL, PHPMailer, XAMPP
+
+---
+
+### 🚀 **Fiji Directory Platform (Laravel)**
+
+Modern business directory with categories, listings, reviews, and admin tools.
+**Tech:** Laravel, Blade, MySQL, Vite
+
+---
+
+### 🔌 **Business Directory API (Django REST Framework)**
+
+A complete API for listings, reviews, comments, and submissions.
+**Tech:** Python, DRF
+**Features:** Token auth, nested endpoints, geolocation, admin tools
+
+---
+
+## 📚 **What I’m Learning Now**
+
+* Artificial Intelligence & Machine Learning (Python)
+* Penetration Testing & Cybersecurity 
+* Laravel
+* REST API Security
+* Data Structures & Algorithms
+this is my git readme style and structure but i want a dark theme git and repositories in cards 
