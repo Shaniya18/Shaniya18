@@ -1,21 +1,4 @@
-
-# 👋 **Hi, I'm Shaniya Saloni Sen**
-
-A **Bachelor of Information Technology (Software Engineering)** graduate with skills in **software development, secure web systems, mobile apps, databases,data analysis and cybersecurity**.
-
-I build **real-world applications** that are secure, efficient, and user-friendly — from Android apps to PHP/Laravel systems and Django REST APIs.
-
-
----
-
-## 🚀 **About Me**
-
-* 🎓 Final-year Software Engineering student
-* 💻 Passionate about web, mobile, and secure system development
-* 🤖 Learning AI, machine learning & automation
-* 🔐 Strong interest in cybersecurity and secure coding (OWASP practices)
-* 🧪 Enjoy building full systems: **UI → Backend → Database → Security → Deployment**
-* 🎯 Career Goals: **Software Engineer • Cybersecurity Analyst**
+<p align="left"> <img src="https://img.shields.io/badge/Status-Actively%20Building-green?style=for-the-badge" /> <img src="https://img.shields.io/badge/Focus-Secure%20Systems-red?style=for-the-badge" /> <img src="https://img.shields.io/badge/Location-Fiji-blue?style=for-the-badge" /> </p>
 
 ---
 
