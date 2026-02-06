@@ -80,6 +80,12 @@ A complete API for listings, reviews, comments, and submissions.
 **Tech:** Python, DRF
 **Features:** Token auth, nested endpoints, geolocation, admin tools
 
+### ✈️ Fiji Baggage Reconciliation System (BRS)**
+
+A real-world aviation system built using a 3-Tier Architecture to track, validate, and reconcile passenger baggage securely.
+**Tech:** Django REST Framework, MySQL (Aiven Cloud), ASP.NET MVC, Bootstrap
+**Features:** Role-based access, audit trail logging, zero-trust baggage validation, REST APIs, CI/CD deployment, and cloud-hosted passenger & staff portals.
+
 ---
 
 ## 📚 **What I’m Learning Now**
