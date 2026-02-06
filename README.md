@@ -10,7 +10,7 @@ I build **real-world applications** that are secure, efficient, and user-friendl
 
 ## 🚀 **About Me**
 
-* 🎓 Final-year Software Engineering student
+* 🎓 Software Engineering Graduate
 * 💻 Passionate about web, mobile, and secure system development
 * 🤖 Learning AI, machine learning & automation
 * 🔐 Strong interest in cybersecurity and secure coding (OWASP practices)
