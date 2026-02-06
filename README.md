@@ -79,7 +79,9 @@ Modern business directory with categories, listings, reviews, and admin tools.
 A complete API for listings, reviews, comments, and submissions.
 **Tech:** Python, DRF
 **Features:** Token auth, nested endpoints, geolocation, admin tools
+
 ---
+
 ### ✈️ **Fiji Baggage Reconciliation System (BRS)**
 
 A real-world aviation system built using a 3-Tier Architecture to track, validate, and reconcile passenger baggage securely.
