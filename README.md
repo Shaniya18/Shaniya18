@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Shaniya18/Shaniya18/main/butterfly-rain.svg" width="100%" alt="Shaniya Saloni Sen"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1b1530&height=150&section=header&text=Shaniya%20Saloni%20Sen&fontSize=40&fontColor=C9A7FF&desc=Secure%20software%20%C2%B7%20Web%20%C2%B7%20Mobile%20%C2%B7%20APIs&descSize=16&descAlignY=68" width="100%" alt="Shaniya Saloni Sen"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Quicksand&weight=700&size=20&duration=2800&pause=700&color=8E7DBE&center=true&vCenter=true&width=640&height=45&lines=Building+secure%2C+real-world+systems;Web+%7C+Mobile+%7C+Cybersecurity+%7C+APIs;Currently+exploring+AI+%26+Penetration+Testing" alt="typing"/>
-
-<img src="https://img.shields.io/badge/Based_in-Fiji-BFEAF5?style=flat-square&labelColor=C9A7FF"/>
-<img src="https://img.shields.io/badge/OWASP-minded-F6C6E0?style=flat-square&labelColor=C9A7FF"/>
-<img src="https://img.shields.io/badge/Open_to-opportunities-F6E7D8?style=flat-square&labelColor=C9A7FF"/>
+<img src="https://img.shields.io/badge/Based_in-Fiji-0d1117?style=flat-square&labelColor=161b22&color=8FD3FF"/>
+<img src="https://img.shields.io/badge/OWASP-minded-0d1117?style=flat-square&labelColor=161b22&color=C9A7FF"/>
+<img src="https://img.shields.io/badge/Open_to-opportunities-0d1117?style=flat-square&labelColor=161b22&color=FF9ACB"/>
 
 </div>
 
@@ -27,7 +25,7 @@ Bachelor of Information Technology (Software Engineering) graduate. I build secu
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,java,php,cs,js,html,css,django,laravel,dotnet,bootstrap,vite,androidstudio,mysql,firebase,git,github,linux,postman&theme=light&perline=10" alt="Tech stack"/>
+<img src="https://skillicons.dev/icons?i=py,java,php,cs,js,html,css,django,laravel,dotnet,bootstrap,vite,androidstudio,mysql,firebase,git,github,linux,postman&theme=dark&perline=10" alt="Tech stack"/>
 
 </div>
 
@@ -50,11 +48,7 @@ Bachelor of Information Technology (Software Engineering) graduate. I build secu
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shaniya18&show_icons=true&theme=solarized-light&hide_border=true&bg_color=FFF9F0&title_color=B87BA4&icon_color=8E7DBE&text_color=7D6E83&border_radius=16" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaniya18&layout=compact&theme=solarized-light&hide_border=true&bg_color=FFF9F0&title_color=B87BA4&text_color=7D6E83&border_radius=16" height="150"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8FD3FF,50:C9A7FF,100:FF9ACB&height=100&section=footer" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Shaniya18&show_icons=true&hide_border=true&bg_color=0d1117&title_color=C9A7FF&icon_color=8FD3FF&text_color=C9D1D9&border_radius=12" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaniya18&layout=compact&hide_border=true&bg_color=0d1117&title_color=C9A7FF&text_color=C9D1D9&border_radius=12" height="150"/>
 
 </div>
