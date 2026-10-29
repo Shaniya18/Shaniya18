@@ -4,6 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=900&color=9CA3AF&center=true&vCenter=true&width=520&height=34&lines=Into+cybersecurity+and+web+systems;Currently+exploring+AI+%26+penetration+testing" alt="typing"/>
 
+
 <br>
 
 <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
@@ -14,8 +15,7 @@
 
 <br><br>
 
-<a href="YOUR-LINKEDIN-URL"><img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn"/></a>
-<a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/EMAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email"/></a>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:3a3a3a&height=100&section=footer" width="100%"/>
 
