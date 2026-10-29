@@ -1,27 +1,46 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1b1530&height=150&section=header&text=Shaniya%20Saloni%20Sen&fontSize=40&fontColor=C9A7FF&desc=Secure%20software%20%C2%B7%20Web%20%C2%B7%20Mobile%20%C2%B7%20APIs&descSize=16&descAlignY=68" width="100%" alt="Shaniya Saloni Sen"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:2a1f4a,100:6b4a9a&height=210&section=header&text=Shaniya%20Saloni%20Sen&fontSize=44&fontColor=E6E1F5&fontAlignY=38&desc=Secure%20by%20design%2C%20friendly%20by%20default&descSize=16&descAlignY=58" width="100%" alt="Shaniya Saloni Sen"/>
 
-<img src="https://img.shields.io/badge/Based_in-Fiji-0d1117?style=flat-square&labelColor=161b22&color=8FD3FF"/>
-<img src="https://img.shields.io/badge/OWASP-minded-0d1117?style=flat-square&labelColor=161b22&color=C9A7FF"/>
-<img src="https://img.shields.io/badge/Open_to-opportunities-0d1117?style=flat-square&labelColor=161b22&color=FF9ACB"/>
+<img src="https://img.shields.io/badge/Based_in-Fiji-0d1117?style=for-the-badge&labelColor=161b22&color=8FD3FF"/>
+<img src="https://img.shields.io/badge/OWASP-minded-0d1117?style=for-the-badge&labelColor=161b22&color=C9A7FF"/>
+<img src="https://img.shields.io/badge/Open_to-opportunities-0d1117?style=for-the-badge&labelColor=161b22&color=FF9ACB"/>
 
 </div>
 
 <br>
 
-## About
+```python
+class Shaniya:
+    degree   = "BIT, Software Engineering"
+    location = "Fiji"
+    builds   = ["web apps", "Android apps", "REST APIs", "secure systems"]
+    exploring = ["AI / ML (Python)", "penetration testing", "API security", "DSA"]
+    goal     = ["Software Engineer", "Cybersecurity Analyst"]
 
-> *Secure by design, friendly by default.*
-
-Bachelor of Information Technology (Software Engineering) graduate. I build secure, user-friendly applications, from Android apps to Laravel systems and Django REST APIs.
-
-- **Now exploring:** AI/ML with Python, penetration testing, REST API security, DSA
-- **Aiming for:** Software Engineer, Cybersecurity Analyst
+    def motto(self):
+        return "Secure by design, friendly by default."
+```
 
 <br>
 
-## Stack
+## Security checklist
+
+Every project I ship gets run through this.
+
+```diff
++ SQL injection        parameterised queries
++ XSS                  output escaping
++ CSRF                 token-protected forms
++ Sessions             secure, expiring
++ Access control       role-based, least privilege
++ Auditability         action logging
++ APIs                 token auth, validated input
+```
+
+<br>
+
+## Toolkit
 
 <div align="center">
 
@@ -31,16 +50,58 @@ Bachelor of Information Technology (Software Engineering) graduate. I build secu
 
 <br>
 
-## Projects
+## Selected work
 
-| Project | What it does | Built with |
-|---|---|---|
-| **Fiji Baggage Reconciliation System** | 3-tier aviation baggage tracking and validation. Role-based access, audit logging, zero-trust validation, CI/CD, cloud-hosted portals | Django REST · ASP.NET MVC · MySQL |
-| **Business Directory API** | REST API with token auth, nested endpoints, geolocation and admin tools | Python · DRF |
-| **Fiji Directory Platform** | Laravel rebuild of the directory: categories, listings, reviews, admin | Laravel · Blade · Vite |
-| **Fiji Web Directory** | Secure PHP directory with SQLi/XSS/CSRF protection, secure sessions, admin panel | PHP · MySQL |
-| **Budget Bliss** | Personal finance app with income/expense tracking and real-time sync | Java · Firebase |
-| **Pharmacy Management System** | Billing, inventory, prescriptions, reporting, role-based login | VB.NET · SQL Server |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Fiji Baggage Reconciliation System**<br>
+3-tier aviation baggage tracking with zero-trust validation, audit logging and cloud-hosted portals.<br>
+<sub>Django REST · ASP.NET MVC · MySQL</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**Business Directory API**<br>
+Token-auth REST API with nested endpoints, geolocation and admin tools.<br>
+<sub>Python · Django REST Framework</sub>
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**Fiji Directory Platform**<br>
+Laravel rebuild of the directory with categories, listings, reviews and admin.<br>
+<sub>Laravel · Blade · Vite</sub>
+
+</td>
+<td valign="top">
+
+**Fiji Web Directory**<br>
+Hardened PHP directory built around SQLi, XSS and CSRF protection.<br>
+<sub>PHP · MySQL</sub>
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**Budget Bliss**<br>
+Personal finance app with income and expense tracking and real-time sync.<br>
+<sub>Java · Firebase</sub>
+
+</td>
+<td valign="top">
+
+**Pharmacy Management System**<br>
+Billing, inventory, prescriptions and reporting with role-based login.<br>
+<sub>VB.NET · SQL Server</sub>
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -50,5 +111,7 @@ Bachelor of Information Technology (Software Engineering) graduate. I build secu
 
 <img src="https://github-readme-stats.vercel.app/api?username=Shaniya18&show_icons=true&hide_border=true&bg_color=0d1117&title_color=C9A7FF&icon_color=8FD3FF&text_color=C9D1D9&border_radius=12" height="150"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaniya18&layout=compact&hide_border=true&bg_color=0d1117&title_color=C9A7FF&text_color=C9D1D9&border_radius=12" height="150"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:2a1f4a,100:6b4a9a&height=100&section=footer" width="100%"/>
 
 </div>
