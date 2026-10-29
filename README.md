@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./butterfly-rain.gif" width="100%" alt="Shaniya Saloni Sen"/>
+<img src="./butterfly-rain.svg" width="100%" alt="Shaniya Saloni Sen"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Quicksand&weight=700&size=20&duration=2800&pause=700&color=8E7DBE&center=true&vCenter=true&width=720&height=45&lines=%F0%9F%8C%B8+Building+secure%2C+real-world+systems;%F0%9F%A6%8B+Web+%7C+Mobile+%7C+Cybersecurity+%7C+APIs;%F0%9F%94%90+OWASP-minded+%C2%B7+Cloud-deployed+%C2%B7+Always+growing;%E2%9C%A8+Currently+exploring+AI+%26+Penetration+Testing" alt="typing"/>
 
