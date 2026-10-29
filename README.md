@@ -1,175 +1,93 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FBD3E9,50:E3D5F5,100:BFEAF5&height=260&section=header&text=Shaniya%20Saloni%20Sen&fontSize=46&fontColor=6B4E71&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Cybersecurity%20Analyst&descAlignY=58&descSize=18&descColor=7D6E83" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9ACB,50:C9A7FF,100:8FD3FF&height=130&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC4E1,50:E0CCFF,100:B8E6FF&height=200&section=header&text=Shaniya%20Saloni%20Sen&fontSize=52&fontColor=FFFFFF&fontAlign=50&fontAlignY=42&stroke=B87BA4&strokeWidth=1&animation=fadeIn&reversal=true" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Quicksand&weight=600&size=18&duration=3000&pause=800&color=8E7DBE&center=true&vCenter=true&width=700&height=40&lines=%F0%9F%8C%B8+Building+secure%2C+real-world+systems;%F0%9F%A6%8B+Web+%7C+Mobile+%7C+Cybersecurity+%7C+APIs;%F0%9F%94%90+OWASP-minded+%C2%B7+Cloud-deployed+%C2%B7+Always+growing;%E2%9C%A8+Currently+exploring+AI+%26+Penetration+Testing" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Quicksand&weight=700&size=20&duration=2800&pause=700&color=8E7DBE&center=true&vCenter=true&width=720&height=45&lines=%F0%9F%8C%B8+Building+secure%2C+real-world+systems;%F0%9F%A6%8B+Web+%7C+Mobile+%7C+Cybersecurity+%7C+APIs;%F0%9F%94%90+OWASP-minded+%C2%B7+Cloud-deployed+%C2%B7+Always+growing;%E2%9C%A8+Currently+exploring+AI+%26+Penetration+Testing" alt="typing"/>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Software_Engineer-F6C6E0?style=for-the-badge&logo=githubsponsors&logoColor=6B4E71" alt="Software Engineer"/>
-<img src="https://img.shields.io/badge/Cybersecurity_Analyst-D9C8F0?style=for-the-badge&logo=hackthebox&logoColor=6B4E71" alt="Cybersecurity Analyst"/>
-<img src="https://img.shields.io/badge/Fiji_🇫🇯-BFEAF5?style=for-the-badge" alt="Fiji"/>
-<img src="https://img.shields.io/badge/Open_to_opportunities-F6E7D8?style=for-the-badge&logo=handshake&logoColor=6B4E71" alt="Open to opportunities"/>
+<img src="https://img.shields.io/badge/Fiji-🇫🇯-BFEAF5?style=for-the-badge&labelColor=C9A7FF"/>
+<img src="https://img.shields.io/badge/OWASP-minded-F6C6E0?style=for-the-badge&labelColor=C9A7FF"/>
+<img src="https://img.shields.io/badge/Open_to-opportunities-F6E7D8?style=for-the-badge&labelColor=C9A7FF"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FBD3E9,50:F6E7D8,100:BFEAF5&height=4&section=header" width="100%"/>
-
-## 🦋&nbsp; About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF9ACB,50:C9A7FF,100:8FD3FF&height=64&section=header&text=%F0%9F%A6%8B%20ABOUT%20ME&fontSize=26&fontColor=FFFFFF" width="100%"/>
 
 > *"Secure by design, friendly by default."* 🌸
 
 A **Bachelor of Information Technology (Software Engineering)** graduate specializing in **secure software systems, mobile apps, databases, data analysis, and cybersecurity.**
 
-I build **real-world applications** that are secure, efficient, and user-friendly: from Android apps to PHP/Laravel systems and Django REST APIs.
+I build **real-world applications** that are secure, efficient, and user-friendly, from Android apps to PHP/Laravel systems and Django REST APIs.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFC4E1,100:E0CCFF&height=48&section=header&text=%F0%9F%8C%B7%20FOCUS&fontSize=20&fontColor=FFFFFF" width="100%"/>
 
-### 🌷 Focus
-- 🌐 Full-stack & secure web development
-- 📱 Android mobile development
-- 🔌 REST API design & testing
-- 🛡️ OWASP-focused application security
+🌐 Full-stack & secure web development &nbsp;·&nbsp; 📱 Android development &nbsp;·&nbsp; 🔌 REST API design & testing &nbsp;·&nbsp; 🛡️ OWASP-focused security
 
-</td>
-<td width="50%" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E0CCFF,100:B8E6FF&height=48&section=header&text=%E2%9C%A8%20CURRENTLY%20BLOOMING%20IN&fontSize=20&fontColor=FFFFFF" width="100%"/>
 
-### ✨ Currently Blooming In
-- 🤖 AI / Machine Learning (Python)
-- 🕵️ Penetration testing
-- 🔐 REST API security
-- 🧩 Data Structures & Algorithms
+🤖 AI / Machine Learning (Python) &nbsp;·&nbsp; 🕵️ Penetration testing &nbsp;·&nbsp; 🔐 REST API security &nbsp;·&nbsp; 🧩 Data Structures & Algorithms
 
-</td>
-</tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B8E6FF,100:FFC4E1&height=48&section=header&text=%F0%9F%8C%B1%20CAREER%20GOALS&fontSize=20&fontColor=FFFFFF" width="100%"/>
 
-**Career goals** &nbsp;→&nbsp; `Software Engineer` 🌱 `Cybersecurity Analyst`
+`Software Engineer` &nbsp; 🌱 &nbsp; `Cybersecurity Analyst`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:BFEAF5,50:F6E7D8,100:FBD3E9&height=4&section=header" width="100%"/>
-
-## 🧰&nbsp; Tech Garden
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8FD3FF,50:C9A7FF,100:FF9ACB&height=64&section=header&text=%F0%9F%A7%B0%20TECH%20GARDEN&fontSize=26&fontColor=FFFFFF" width="100%"/>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/-LANGUAGES-F6C6E0?style=flat-square&labelColor=F6C6E0&color=F6C6E0" height="0"/>
-
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=py,java,php,cs,js,html,css&theme=light" alt="Languages"/>
-</a>
+<img src="https://skillicons.dev/icons?i=py,java,php,cs,js,html,css&theme=light&perline=7" alt="Languages"/>
 <br>
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=django,laravel,dotnet,bootstrap,vite,androidstudio&theme=light" alt="Frameworks"/>
-</a>
+<img src="https://skillicons.dev/icons?i=django,laravel,dotnet,bootstrap,vite,androidstudio&theme=light&perline=6" alt="Frameworks"/>
 <br>
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,linux,postman&theme=light" alt="Tools"/>
-</a>
+<img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,linux,postman&theme=light&perline=6" alt="Tools"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FBD3E9,50:F6E7D8,100:BFEAF5&height=4&section=header" width="100%"/>
-
-## 🌷&nbsp; Projects & Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF9ACB,50:C9A7FF,100:8FD3FF&height=64&section=header&text=%F0%9F%8C%B7%20PROJECTS&fontSize=26&fontColor=FFFFFF" width="100%"/>
 
 *Every flower needs roots. My projects are the blooms, my tech stack is what grows them.*
 
 <div align="center">
-
 <img src="./flower-tech-diagram.svg" width="100%">
-
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFC4E1,100:E0CCFF&height=54&section=header&text=%E2%9C%88%EF%B8%8F%20Fiji%20Baggage%20Reconciliation%20System&fontSize=20&fontColor=FFFFFF" width="100%"/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+3-tier aviation baggage tracking & validation platform. Role-based access, audit trail logging, zero-trust baggage validation, REST APIs, CI/CD deployment, and cloud-hosted passenger & staff portals.
 
-### ✈️ Fiji Baggage Reconciliation System
-3-tier aviation baggage tracking & validation platform.
+![](https://img.shields.io/badge/Django_REST-F6C6E0?style=flat-square&logo=django&logoColor=white) ![](https://img.shields.io/badge/ASP.NET_MVC-D9C8F0?style=flat-square&logo=dotnet&logoColor=white) ![](https://img.shields.io/badge/MySQL_Aiven-BFEAF5?style=flat-square&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/Bootstrap-F6E7D8?style=flat-square&logo=bootstrap&logoColor=white)
 
-`Django REST Framework` `ASP.NET MVC` `MySQL (Aiven)` `Bootstrap`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E0CCFF,100:B8E6FF&height=54&section=header&text=%F0%9F%93%B1%20Budget%20Bliss&fontSize=20&fontColor=FFFFFF" width="100%"/>
 
-🔸 Role-based access & audit trail logging
-🔸 Zero-trust baggage validation
-🔸 REST APIs & CI/CD deployment
-🔸 Cloud-hosted passenger & staff portals
+Personal finance tracking app with income/expense tracking, balance display, real-time sync, and secure logout.
 
-</td>
-<td width="50%" valign="top">
+![](https://img.shields.io/badge/Java-F6C6E0?style=flat-square&logo=openjdk&logoColor=white) ![](https://img.shields.io/badge/Firebase_Auth-D9C8F0?style=flat-square&logo=firebase&logoColor=white) ![](https://img.shields.io/badge/Firestore-BFEAF5?style=flat-square&logo=firebase&logoColor=white) ![](https://img.shields.io/badge/XML-F6E7D8?style=flat-square)
 
-### 📱 Budget Bliss
-Personal finance tracking app.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B8E6FF,100:FFC4E1&height=54&section=header&text=%F0%9F%8F%A5%20Pharmacy%20Management%20System&fontSize=20&fontColor=FFFFFF" width="100%"/>
 
-`Java` `Firebase Auth` `Firestore` `XML`
+Full pharmacy billing & inventory system with role-based login, inventory control, prescription handling, reporting, and an admin dashboard.
 
-🔸 Income & expense tracking
-🔸 Live balance display
-🔸 Real-time sync
-🔸 Secure logout
+![](https://img.shields.io/badge/VB.NET-F6C6E0?style=flat-square&logo=dotnet&logoColor=white) ![](https://img.shields.io/badge/SQL_Server-D9C8F0?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![](https://img.shields.io/badge/ADO.NET-BFEAF5?style=flat-square&logo=dotnet&logoColor=white)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFC4E1,100:E0CCFF&height=54&section=header&text=%F0%9F%8C%90%20Fiji%20Web%20Directory&fontSize=20&fontColor=FFFFFF" width="100%"/>
 
-### 🏥 Pharmacy Management System
-Full pharmacy billing & inventory system.
+Secure PHP business directory with SQL injection protection, XSS prevention, CSRF tokens, secure sessions, an admin panel, and reviews.
 
-`VB.NET` `SQL Server` `ADO.NET`
+![](https://img.shields.io/badge/PHP-F6C6E0?style=flat-square&logo=php&logoColor=white) ![](https://img.shields.io/badge/MySQL-D9C8F0?style=flat-square&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/PHPMailer-BFEAF5?style=flat-square)
 
-🔸 Role-based login
-🔸 Inventory control & prescription handling
-🔸 Reporting & admin dashboard
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E0CCFF,100:B8E6FF&height=54&section=header&text=%F0%9F%9A%80%20Fiji%20Directory%20Platform&fontSize=20&fontColor=FFFFFF" width="100%"/>
 
-</td>
-<td width="50%" valign="top">
+Modern Laravel rebuild of the business directory with categories, listings, reviews, and admin tools.
 
-### 🌐 Fiji Web Directory
-Secure PHP business directory.
+![](https://img.shields.io/badge/Laravel-F6C6E0?style=flat-square&logo=laravel&logoColor=white) ![](https://img.shields.io/badge/Blade-D9C8F0?style=flat-square&logo=laravel&logoColor=white) ![](https://img.shields.io/badge/MySQL-BFEAF5?style=flat-square&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/Vite-F6E7D8?style=flat-square&logo=vite&logoColor=white)
 
-`PHP` `MySQL` `PHPMailer`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:B8E6FF,100:FFC4E1&height=54&section=header&text=%F0%9F%94%8C%20Business%20Directory%20API&fontSize=20&fontColor=FFFFFF" width="100%"/>
 
-🔸 SQL injection protection & XSS prevention
-🔸 CSRF tokens & secure sessions
-🔸 Admin panel & reviews
+REST API for the directory platform with token auth, nested endpoints, geolocation, and admin tools.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+![](https://img.shields.io/badge/Python-F6C6E0?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/Django_REST_Framework-D9C8F0?style=flat-square&logo=django&logoColor=white)
 
-### 🚀 Fiji Directory Platform
-Modern Laravel rebuild of the business directory.
-
-`Laravel` `Blade` `MySQL` `Vite`
-
-🔸 Categories & listings
-🔸 Reviews
-🔸 Admin tools
-
-</td>
-<td width="50%" valign="top">
-
-### 🔌 Business Directory API
-REST API for the directory platform.
-
-`Python` `Django REST Framework`
-
-🔸 Token authentication
-🔸 Nested endpoints
-🔸 Geolocation & admin tools
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:BFEAF5,50:F6E7D8,100:FBD3E9&height=4&section=header" width="100%"/>
-
-## 📊&nbsp; GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8FD3FF,50:C9A7FF,100:FF9ACB&height=64&section=header&text=%F0%9F%93%8A%20GITHUB%20STATS&fontSize=26&fontColor=FFFFFF" width="100%"/>
 
 <div align="center">
 
@@ -178,22 +96,15 @@ REST API for the directory platform.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaniya18&theme=default&hide_border=true&background=FFF9F0&ring=B87BA4&fire=E8A6C1&currStreakLabel=B87BA4&border_radius=16" height="165"/>
 
-<br><br>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaniya18&bg_color=FFF9F0&color=B87BA4&line=8E7DBE&point=E8A6C1&area=true&area_color=FBD3E9&hide_border=true&custom_title=Contribution%20Garden" width="95%"/>
-
-<br><br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Shaniya18&color=b87ba4&style=for-the-badge&label=PROFILE+VISITORS+%F0%9F%8C%B8)
-
-</div>
 
 <br>
 
-<div align="center">
+![Profile Views](https://komarev.com/ghpvc/?username=Shaniya18&color=b87ba4&style=for-the-badge&label=PROFILE+VISITORS+%F0%9F%8C%B8)
 
 <img src="https://readme-typing-svg.demolab.com/?font=Quicksand&size=15&duration=4000&pause=1500&color=B87BA4&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by+my+little+corner+of+GitHub+%F0%9F%8C%B7%F0%9F%A6%8B" alt="Thanks"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BFEAF5,50:F6E7D8,100:FBD3E9&height=160&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B8E6FF,50:E0CCFF,100:FFC4E1&height=200&section=footer&reversal=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8FD3FF,50:C9A7FF,100:FF9ACB&height=120&section=footer" width="100%"/>
 
 </div>
